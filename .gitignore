@@ -1,4 +1,6 @@
 node_modules
 client
-dist
-src/config
+src
+tscconfig.json
+dist/config
+
